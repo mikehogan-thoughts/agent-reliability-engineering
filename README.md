@@ -16,6 +16,17 @@ This is an open project. Contributions of all kinds are welcome:
 
 Please open an issue before large PRs so we can align on direction.
 
+## Early Feedback & Supporters
+We are actively seeking critique and extensions from researchers and practitioners working on agent reliability, tool-use failures, evaluation metrics, and production agent systems.
+
+**Early feedback received from:**  
+*(Placeholder: This section will be updated publicly as people engage. Names appear only with permission.)*
+
+- [Name / Affiliation] – feedback on [specific aspect]
+- ...
+
+If you provide substantial feedback, we are happy to list you here (or keep it private—your choice).
+
 ## Sponsorship & Funding
 
 Sponsorship and funding are welcome to support ongoing development, community efforts, and eventual independent stewardship. Details will be added as the project matures.
