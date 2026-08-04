@@ -6,6 +6,15 @@ This repository contains the **Agent Reliability Engineering Manifesto** — a p
 
 The manifesto formalizes ARE as the practice of treating reliability (consistency, robustness, predictability, safety, identity, enforcement, observability, and containment) as a first-class engineering concern for AI agents — distinct from raw model capability.
 
+### Collaborative Draft (Google Doc)
+
+For easier commenting and early feedback, the working version is also available here:
+
+**[View / Comment on Google Doc](https://docs.google.com/document/d/1PdErPFiFX2RiaqeO4SEQPLp_JjnZrFZL/edit?usp=sharing)**
+
+This Google Doc is currently the preferred place for line-level comments and suggestions.  
+The Markdown + PDF in this repository are the versioned, publishable artifacts derived from the Google Doc.
+
 ## Contributing
 
 This is an open project. Contributions of all kinds are welcome:
